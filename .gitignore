@@ -1,0 +1,17 @@
+# OS 생성 파일
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 에디터/IDE 설정
+.vscode/
+.idea/
+
+# 의존성 및 빌드 산출물 (향후 도구 도입 대비)
+node_modules/
+dist/
+build/
+
+# 환경 변수 / 민감 정보
+.env
+.env.local
